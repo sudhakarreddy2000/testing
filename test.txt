@@ -1,3 +1,2 @@
 Hello git
--------------.
-hello remote git
+---------
