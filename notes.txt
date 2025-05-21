@@ -1,0 +1,166 @@
+Sudhakar Reddy
+
+Java FullStack:
+FullStack:
+	-Web designer 
+	-Web Developer
+	-Front-end developer
+	-back-end developer
+	-UI developer
+	-Database
+	-FullStack Developer
+
+15th May:
+c language
+Core java
+	=>variable
+		static variable
+		non-static variables
+	=>methods
+	=>constructors
+	=>arrays
+	=if else 
+	=>loops
+	=>String methods
+	=>oops 
+		=>inheritance
+		=>polymorphism
+		=>Encapsulation
+		=>Abstraction
+		=>class
+		=>object
+		etc
+Adv java
+	jdbc
+	servlets
+	jsp
+Frameworks
+	hibernate
+	Spring
+	Spring boot
+micro services etc
+sql
+
+html
+css
+bootstrap
+Javascriptreact
+
+tools
+
+website?
+========
+Website is a collection of webpage which contains information.
+Information in the from of text,graphics,images,videos,audio, hyperlinks.
+
+Home page:
+==========
+First / landing page of a website is called home page
+home page name should be index.html
+
+Browser:
+=======
+Browser is a software/app which is used to connect to different website/apps
+
+Requirements for a website:
+==============================
+	1)Domain name registration
+	2)Server space /hosting
+	3)development / designing
+16th May:
+=========
+hosting
+class
+object
+garbage
+
+19th May:
+==========
+Version Control System
+
+20th May:
+=========
+=>Download git and install
+=>go to cmd prompt and type=>git
+=>Create a folder(using windows)
+=>initialize git
+	at commons prompt type =>
+git init
+
+=>create a text file in that folder and type some content, save it
+=>check the status of git
+	git status
+=>git add . =>move all the file of this folder to staging area
+=>git commit -m "message"  ==>to commit
+
+20th May:
+========
+GITHUB:
+==>Create GitHub account
+=>after creating login to this account
+=>Need to create repository
+=>we need to give alias name for your GitHub repository
+	git remote add course10 https://github.com/qedgejava/test100.git
+=>we need to push(upload)data to global repository
+	git push -u course10 master
+
+Branches:
+Creating a branch:
+	git branch branchName
+To enter/change into branch
+	git checkout branchName
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
