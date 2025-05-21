@@ -109,6 +109,7 @@ Creating a branch:
 	git branch branchName
 To enter/change into branch
 	git checkout branchName
+..
 
 
 
